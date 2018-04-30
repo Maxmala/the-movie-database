@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+
+
+ruby '2.3.4'
+
+
 # authentification
 #gem 'devise'
 #gem 'pundit'
