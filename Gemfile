@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 #gem 'devise'
 #gem 'pundit'
 
+gem 'bootsnap', '>= 1.1.0', require: false 
 gem 'rails'
 gem 'puma'
 gem 'sass-rails'
